@@ -63,6 +63,7 @@ section {
 .about-content {
     font-size: 1.1rem;
     line-height: 1.8;
+    text-align: center;
 }
 .education-item {
     margin-bottom: 30px;
